@@ -1,4 +1,4 @@
-# Hi, I'm Seth Baraka 👋
+# Hi there, I'm Seth Baraka 👋
 
 Full-Stack Software Engineer passionate about building scalable, secure, and production-ready software.
 
