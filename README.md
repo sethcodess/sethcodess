@@ -27,7 +27,7 @@
 </td>
 <td width="40%" align="center">
   <!-- Ensure you place a matching laptop illustration in your assets folder -->
-  <img src="https://raw.githubusercontent.com/sethcodess/sethcodess/main/assets/laptop-illustration.png" alt="Laptop Illustration" width="400" />
+  ![Laptop Illustration](assets/laptop%20illustration.jpg)
 </td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ I believe software engineering is more than writing code—it's understanding bu
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br><br>
   <i>Updated 2 days ago</i><br><br>
-  <img src="https://raw.githubusercontent.com/sethcodess/sethcodess/main/assets/cardflow-preview.png" width="100%"/>
+  ![CardFlow Preview](assets/cardflow-preview.png)
 </td>
 <td width="33%" valign="top">
   <b>📊 ExpenseTracker</b> <a href="#"><img src="https://img.shields.io/github/stars/sethcodess/expensetracker?style=social" align="right"/></a><br>
@@ -108,7 +108,7 @@ I believe software engineering is more than writing code—it's understanding bu
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br><br>
   <i>Updated 3 weeks ago</i><br><br>
-  <img src="https://raw.githubusercontent.com/sethcodess/sethcodess/main/assets/expensetracker-preview.png" width="100%"/>
+  ![ExpenseTracker Preview](assets/expensetracker-preview.png)
 </td>
 <td width="33%" valign="top">
   <b>📋 TaskFlow API</b> <a href="#"><img src="https://img.shields.io/github/stars/sethcodess/taskflow?style=social" align="right"/></a><br>
@@ -117,7 +117,7 @@ I believe software engineering is more than writing code—it's understanding bu
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/><br><br>
   <i>Updated 1 month ago</i><br><br>
-  <img src="https://raw.githubusercontent.com/sethcodess/sethcodess/main/assets/taskflow-preview.png" width="100%"/>
+  ![TaskFlow Preview](assets/taskflow-preview.png)
 </td>
 </tr>
 </table>
@@ -185,7 +185,7 @@ I believe software engineering is more than writing code—it's understanding bu
 <br>
 <b>Thanks for visiting!</b><br><br>
 <!-- Add a pixel art gif to your assets folder -->
-<img src="https://raw.githubusercontent.com/sethcodess/sethcodess/main/assets/pixel-art-coding.gif" width="100"/><br>
+![Pixel Art Coding](assets/pixel-art-coding.gif)<br>
 Let's build something amazing together 🚀
 </td>
 </tr>
