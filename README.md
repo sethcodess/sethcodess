@@ -65,23 +65,23 @@ I believe software engineering is more than writing code—it's understanding bu
 <tr>
 <td width="25%" valign="top">
   <b>Frontend</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" /><br>
-  React &nbsp; Next.js &nbsp; TypeScript &nbsp; Tailwind
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /><br>
+  React &nbsp; Next.js &nbsp; TypeScript &nbsp; JavaScript &nbsp; Tailwind
 </td>
 <td width="25%" valign="top">
   <b>Backend</b><br><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" /><br>
-  ASP.NET Core &nbsp; C# &nbsp; REST API
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" /><br>
+  ASP.NET Core &nbsp; C# &nbsp; Node.js &nbsp; REST&nbsp;API
 </td>
 <td width="25%" valign="top">
   <b>Database</b><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis" /><br>
-  PostgreSQL &nbsp; Redis
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlserver,mysql,mongodb" /><br>
+  PostgreSQL &nbsp; Redis &nbsp; SQL&nbsp;Server &nbsp; MySQL &nbsp; MongoDB
 </td>
 <td width="25%" valign="top">
   <b>DevOps & Tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,figma,vscode" /><br>
-  Docker &nbsp; CI/CD &nbsp; AWS &nbsp; Figma &nbsp; VS Code
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,figma,vscode" /><br>
+  Docker &nbsp; CI/CD &nbsp; AWS &nbsp; Azure &nbsp; Figma &nbsp; VS&nbsp;Code
 </td>
 </tr>
 </table>
