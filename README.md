@@ -177,8 +177,8 @@ I believe software engineering is more than writing code—it's understanding bu
 <td width="33%" valign="top" align="center">
 <br>
 <blockquote>
-"The best way to predict the future is to build it."<br>
-— Alan Kay
+"As long as I'm alive, there are infinite chances."<br>
+— Monkey D. Luffy
 </blockquote>
 </td>
 <td width="33%" valign="top" align="center">
