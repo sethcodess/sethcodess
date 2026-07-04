@@ -169,10 +169,11 @@ I believe software engineering is more than writing code—it's understanding bu
 
 ### 📫 CONNECT WITH ME
 
-<a href="https://linkedin.com/in/sethbaraka"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://sethbaraka.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=dev-to&logoColor=white"/></a><br>
-<a href="mailto:sethcodess@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://twitter.com/sethcodess"><img src="https://img.shields.io/badge/Twitter_/_X-0D1117?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sethbaraka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sethbaraka.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a><br>
+<a href="mailto:sethcodess@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/sethcodess"><img src="https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><br>
+<a href="https://instagram.com/sethcodess"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top" align="center">
