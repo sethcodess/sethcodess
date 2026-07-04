@@ -75,7 +75,8 @@ I believe software engineering is more than writing code—it's understanding bu
 </td>
 <td width="25%" valign="top">
   <b>Database</b><br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlserver,mysql,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" /><br>
   PostgreSQL &nbsp; Redis &nbsp; SQL&nbsp;Server &nbsp; MySQL &nbsp; MongoDB
 </td>
 <td width="25%" valign="top">
